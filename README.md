@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/deepeshmehta4u0613/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/deepeshmehta4u.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/deepeshmehta4u0613/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
