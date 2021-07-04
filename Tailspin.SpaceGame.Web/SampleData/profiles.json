@@ -266,5 +266,21 @@
       "Space Race",
       "King of the Hill"
     ]
+  },
+  {
+    "id": "21",
+    "userName": "Dipesh",
+    "avatarUrl": "images\/avatars\/default.svg",
+    "achievements": [
+      "Particle Accelerator",
+      "Atom Smasher",
+      "Professor",
+      "Professor",
+      "King of the Hill",
+      "Photon Hunter",
+      "Cruiser",
+      "Master Pilot",
+      "Faster than Light"
+    ]
   }
 ]

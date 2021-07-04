@@ -173,5 +173,12 @@
     "score": 104041,
     "gameMode": "Duo",
     "gameRegion": "Ring Nebula"
+  },
+  {
+    "id": "26",
+    "profileId": "21",
+    "score": 654321,
+    "gameMode": "Solo",
+    "gameRegion": "Andromeda"
   }
 ]
